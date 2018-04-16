@@ -1,0 +1,3 @@
+[submodule "submodules/confluently-nyoom"]
+	path = submodules/confluently-nyoom
+	url = git@github.com:gdkar/confluently-nyoom.git
